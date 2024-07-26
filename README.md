@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Piyush Dongre</h1>
 <h3 align="left">I’m a Computer Software Engineering Grad student at Northeastern University. Over the past 2.5 years, working as a software engineer, i have gained expertise in building scalable applications using popular frontend libraries and frameworks such as react, react native, Next.js, flutter and backend technologies such as node, express, mongo and django and Cloud technologies such as aws, cloudinary, cloudwatch, heroku. Working at startups I have mastered collaboration and communication with my team, helping my team roll out features on time. I have published multiple mobile applications as a hobby, helping small businesses. If you’re looking for an experienced and self motivated software engineer for your co-op, I would love to explore the opportunities with your company.</h3>
 
-- 🔭 I’m currently working on [Image Processor](https://github.com/dongrep/image-editor-showcase)
+- 🔭 I’m currently working on [CVE Processing Automation](https://github.com/csye7125-su24-team08)
 
 - 📽️ My recent projects
+  -  [Cloud Infra Automation](https://github.com/MegaCorp-Inc)
   -  [Image Processor](https://github.com/dongrep/image-editor-showcase)
   -  [Husky Events](https://huskyEvents.onrender.com)
   
